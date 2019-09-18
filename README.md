@@ -46,4 +46,4 @@ Issues with current design and reasons it is bad:
 Interactive Processing Version:
 
  ![Test Image 2](processingelevator.png)
- ![Test Image 2](elevatorProjectMov.gif)
+ ![Test Image 2](giphy.gif)
