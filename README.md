@@ -5,4 +5,4 @@ For C:
 
 This elevator was found at uPointe apartments
 
-![Test Image 1](specialtopicselevator.png)
+![Test Image 1](specialtopicselevator.jpg)
